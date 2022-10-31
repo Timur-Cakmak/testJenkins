@@ -1,14 +1,14 @@
-package timur.cakmak.testjenkins;
-
-import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.Assert.assertNotNull;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.context.SpringBootTest;
-
-import timur.cakmak.product.Product;
-import timur.cakmak.product.ProductRepository;
+//package timur.cakmak.testjenkins;
+//
+//import static org.assertj.core.api.Assertions.assertThat;
+//import static org.junit.Assert.assertNotNull;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.beans.factory.annotation.Autowired;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//import timur.cakmak.product.Product;
+//import timur.cakmak.product.ProductRepository;
 
 //@SpringBootTest
 //class TestJenkinsApplicationTests {
