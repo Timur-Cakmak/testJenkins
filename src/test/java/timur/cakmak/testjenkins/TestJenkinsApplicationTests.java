@@ -1,6 +1,5 @@
 package timur.cakmak.testjenkins;
 
-import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.Assert.assertNotNull;
 
 import org.junit.jupiter.api.Test;
